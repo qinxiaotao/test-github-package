@@ -13,6 +13,9 @@
   "keywords": [
     "package"
   ],
+"publishConfig": {
+   "qinxiaotao:registry": "https://npm.pkg.github.com"
+ },
   "author": "qinxiaotao",
   "license": "ISC",
   "bugs": {
